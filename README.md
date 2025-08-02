@@ -1,1 +1,12 @@
-# capstone_project_ibm
+# INSIGHT BITCOIN ANALYSIS
+- Pola untuk melihat data berdasarkan dataset yang ada yaitu dengan membandingkan harga Close dan Open pada hari yang sama. Jika harga Close lebih tinggi dari Open, maka harga cenderung naik (tren naik). Sebaliknya, jika harga Close lebih rendah dari Open, maka harga cenderung turun (tren turun). Selain itu, volume transaksi tidak selalu berhubungan langsung dengan arah pergerakan harga karena volume tinggi bisa terjadi pada hari harga naik maupun turun. Untuk prediksi yang lebih akurat, diperlukan analisis lebih lanjut menggunakan indikator teknikal tambahan.
+- Bitcoin kenaikan selama setahun lebih tepatnya selama 2024 januari - 2025 januari berkisar lebih kurang 120%.
+- Rata - rata koin yang dibeli selama sethaun 3.744 x 10^10
+- Kenaikan harga bitcoin tertinggi selama 2024 januari - 2025 januari berkisar $108268.45
+- Penururnan harga bitcoin terendah selama 2024 januari - 2025 januari berkisar $40127.35
+- Waktu yang bagus saat menjual dan membeli coin berdasarkan dataset yang ada yakni pada saat 23 Januari 2024 (harga terendah), dan tanggal yang bagus untuk menjual koin adalah 17 Desember 2024 (harga tertinggi)
+- Pada tanggal 5 Desember 2024 orang banyak membeli koin dengan volume sebesar 149218945580 dikarenakan harga koin mulai menurun , maka disitu orang banyak membeli koin tersebut
+- Pada 11 November 2024 menjadi kenaikan harga koin paling tinggi: harga naik dari 80,474.19 menjadi 88,701.48 (kenaikan sekitar 8,227.30)
+- Rata - rata low harga bitcoin selama setahun yaitu sebesar 64509.64.
+- Rata - rata high harga bitcoin selama sethaun yaitu sebesar 67193.34.
+- Pada 18 Desember 2024 dengan penurunan sebesar -6099.0625. Nominal range sebelum penurunan (tanggal 17 Desember 2024) adalah harga Close sekitar 106140.60, dan setelah penurunan (tanggal 19 Desember 2024) harga Close sekitar 97490.95.
